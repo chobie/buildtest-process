@@ -22,5 +22,9 @@ export TOKEN=<YOUR-GITHUB-API-TOKEN>
 export ORGANIZATION=php-git-bot
 export REPOSITORY=test
 
+# run as foreground
+./buildtest-process -foreground
+
+# run as a daemon
 ./buildtest-process
 ```
