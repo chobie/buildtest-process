@@ -1,5 +1,5 @@
-Report Bot
-==========
+buildtest-process Github Report Bot
+===================================
 
 reinterpret buildtest-process program.
 
